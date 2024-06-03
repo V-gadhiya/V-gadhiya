@@ -12,7 +12,7 @@
 
 **About me**
 
-- 💼 FrontEnd Engineer at NR CREW
+- 💼 Full Stack Engineer at NR CREW
 
 - 🚀 I'm a Self Driven, Quick Starter Passionate Programmer With Curious Mind Focused and enthusiastic developer with a keen interest in software development and Competitive Programming.
 
